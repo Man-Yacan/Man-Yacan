@@ -28,5 +28,7 @@ You can click the Preview link to take a look at your changes.
 -   FaceBook：[Man Yacan](https://www.facebook.com/manyacan)
 
 ## 项目信息
+<p style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Man-Yacan&count_private=true&show_icons=true&theme=onedark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Yacan&layout=compact">
+</p>
